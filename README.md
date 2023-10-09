@@ -8,3 +8,4 @@
     alias phpswitch='/path_to_script/main.sh'
   
   
+#### Note:- Script will work with currently with zsh terminal only.
